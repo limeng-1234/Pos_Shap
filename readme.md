@@ -22,5 +22,6 @@ ubuntu 18.04 (windows 系统也能够支持)
 将该库下载到本地
 
 ## 示例
+*  posSHAP实现文件 FullyNet_Shapleyflowtest.py
 *  局部解释和全局解释 draw_figure.ipynb
 *  shapley值量化比较 shapley_compare.ipynb
